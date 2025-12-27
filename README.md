@@ -64,8 +64,10 @@ Upon reset, the CPU executes a preloaded instruction stream and writes the compu
 
 ## Evolutionary roadmap
 
-- **2025-11-24 — Logic modeling**: Hand-constructed 8-bit CPU at gate/logic level to understand ISA decoding and instruction flow. GitHub：https://github.com/CPU-YHC/Asymmetric-CallStack-8bit-CPU
-- **2025-12-12 — Heterogeneous exploration**: Extended to 16-bit architecture and implemented a simple mini-GPU (bouncing ball demo). GitHub：https://github.com/CPU-YHC/turing-16bit-cpu/releases/tag/V2.1
+- **2025-11-24 — Logic modeling**: Hand-constructed 8-bit CPU at gate/logic level to understand ISA decoding and instruction flow.
+  GitHub：https://github.com/CPU-YHC/Asymmetric-CallStack-8bit-CPU
+- **2025-12-12 — Heterogeneous exploration**: Extended to 16-bit architecture and implemented a simple mini-GPU (bouncing ball demo).
+ GitHub：https://github.com/CPU-YHC/turing-16bit-cpu/releases/tag/V2.1
 - **2025-12-26 — RTL pipeline reconstruction (current)**: Reimplemented in handwritten Verilog RTL with a five-stage pipeline and completed end-to-end FPGA verification (displaying `0x42`).
 
 ---
