@@ -105,5 +105,5 @@ MIT License
 
 ---
 
-**Project note:** This project was independently developed by a 12-year-old learner using online resources and AI assistance. Expert review and feedback are welcome.
+**Project note:** This project was independently developed by a 12-year-old student. With no formal mentorship, he relied solely on online videos and AI-assisted learning to complete the entire design and implementation. Experts are kindly invited to review the project and provide feedback or suggestions on how to best support his future development.
 
